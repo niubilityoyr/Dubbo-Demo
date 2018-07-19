@@ -17,4 +17,8 @@ public class Test {
         System.in.read();//阻塞
     }
 
+    public void test1(){
+        System.out.println("my is test1");
+    }
+
 }
